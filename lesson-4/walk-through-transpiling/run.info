@@ -1,0 +1,6 @@
+$ npm run-script
+Lifecycle scripts included in es6:
+  build
+    babel ES6 -d ES5
+$ npm run-script build
+# building output and create ES5
